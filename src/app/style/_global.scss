@@ -1,0 +1,13 @@
+.thm-container {
+  @apply pl-[6%] pr-[6%] max-w-[1200px] mx-auto;
+}
+.page-section {
+  @apply py-[103px];
+}
+
+.btn {
+    @apply inline-flex justify-center items-start py-1 px-4 rounded-lg;
+    &.btn-primary {
+        @apply bg-white text-[#4A77FF];
+    }
+}

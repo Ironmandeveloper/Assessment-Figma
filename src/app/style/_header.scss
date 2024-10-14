@@ -1,0 +1,6 @@
+.nav-wrapper {
+    @apply flex justify-between items-center p-3;
+    ul {
+        @apply flex gap-16 text-white;
+    }
+}

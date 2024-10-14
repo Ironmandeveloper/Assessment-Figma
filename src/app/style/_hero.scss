@@ -1,0 +1,4 @@
+.hero-wrapper {
+   @apply bg-no-repeat bg-cover bg-left-top min-h-[600px];
+   background-image: url(../public/hero-bg.png);
+}
